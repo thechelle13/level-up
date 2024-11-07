@@ -1,6 +1,6 @@
 # Python + SQLite + Django
 
-**TechPower - Project README**
+**Level Up - Project README**
 
 Introduction:
 
