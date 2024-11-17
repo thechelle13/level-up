@@ -39,9 +39,7 @@ Access the application in your web browser at http://localhost:3000.
 
 **Public Links:**
 
-Wireframes -  
-
-ERD - 
+ERD - https://dbdiagram.io/d/Level-Up-6599b37aac844320ae600d8a
 
 
 
